@@ -83,7 +83,6 @@ PLEASE PLACE THE SCRIPT AND DRIVER IN THE SAME FOLDER AND RUN THE SCRIPT USING P
 ├── Output-companies.json.(companies Sample data)
 ├── Output-resume.json (resume Sample data)
 
-Output-resume.json
 
 ```
 
