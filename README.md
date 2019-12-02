@@ -67,8 +67,7 @@ pip install request
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-The scraper is for getting all the job companies and resume info availble on indeed. 
-The scraper will give output in JSON format which includes all the possible info about each job  companies and resume.
+The scraper is for getting all the job companies and resume info available on indeed. The scraper will give output in JSON format which includes all the possible info about each job, companies and resume. 
 YOU WILL NEED FIREFOX AND GECKO SELENIUM DRIVER TO RUN THIS SCRIPT.
 PLEASE PLACE THE SCRIPT AND DRIVER IN THE SAME FOLDER AND RUN THE SCRIPT USING PYCHARM OR ANY OTHER PYTHON IDE.
 
