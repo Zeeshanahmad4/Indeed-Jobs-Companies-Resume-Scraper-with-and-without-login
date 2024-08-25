@@ -10,7 +10,6 @@ Scraping Indeed Jobs Companies Resume and return data in json format-with-and-wi
   </a>
   <h3 align="center">Bot/Scraper</h3>
   <h3 align="center">Indeed-Jobs-Companies-Resume-Scraper</a> <br>
-                                 Project/Code is confidential you can contact me for more info</h3>
 </p>
 
 
